@@ -1,0 +1,10 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "prelude": {
+      "script-ref": "Prelude.jsh",
+      "properties": {}
+    }
+  },
+  "templates": {}
+}
